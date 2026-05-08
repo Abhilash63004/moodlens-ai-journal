@@ -88,8 +88,8 @@ moodlens-ai-journal/
 
 ## 👤 Author
 
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**RAVURI ABHILASH**  
+[LinkedIn](https://linkedin.com/in/ravuriabhilash) · [GitHub](https://github.com/Abhilash63004)
 
 ---
 
